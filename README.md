@@ -25,13 +25,11 @@ Play - Win - Earn 🏆
 ---
 
 ## 🖼 Screenshots
+![Screenshot_20250916-181010_Chrome](https://github.com/user-attachments/assets/5942fac9-1d56-4bad-85a1-475359ec424a)
+![Screenshot_20250916-181021_Chrome](https://github.com/user-attachments/assets/94595d22-ad76-49c6-a655-d13a71e5e961)
+![Screenshot_20250916-181033_Chrome](https://github.com/user-attachments/assets/de122b23-d394-4a4f-96fb-43c164f625f5)
+![Screenshot_20250916-181048_Chrome](https://github.com/user-attachments/assets/f37ffea8-e857-48c6-81c1-42c084a5d8c0)
 
-<img src="screenshot1.png" width="250">  
-<img src="screenshot2.png" width="250">  
-<img src="screenshot3.png" width="250">  
-<img src="screenshot4.png" width="250">  
-
-*(Yaha tumhare diye hue app ke screenshots daale jaa sakte hain. Bas unko repo me `screenshot1.png`, `screenshot2.png` etc. naam se upload karna hoga.)*
 
 ---
 
