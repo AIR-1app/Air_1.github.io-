@@ -15,7 +15,7 @@ Play - Win - Earn 🏆
 ---
 
 ## 🔗 Live Website
-👉 [Visit Website](https://USERNAME.github.io/tournament-website)
+👉 [Visit Website](https://AIR1app.github.io/tournament-website)
 
 ---
 
@@ -36,4 +36,4 @@ Play - Win - Earn 🏆
 ## 🚀 How to Run Locally
 1. Repository clone karo:
    ```bash
-   git clone https://github.com/USERNAME/tournament-website.git
+   git clone https://github.com/AIR1app/tournament-website.git
